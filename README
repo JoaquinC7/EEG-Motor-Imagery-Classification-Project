@@ -1,0 +1,5 @@
+EEG Motor Imaging Classification Project:
+
+Objective:
+The goal of this project is to take open source data from the BCI Competition N- Dataset 2a, sample, filter, and apply machine learning to learn about and classify EEG-acquisitioned motor neural signals between imagined left hand and right hand movement. 
+
